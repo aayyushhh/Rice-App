@@ -1,0 +1,4 @@
+0 Brownspot
+1 Healthy
+2 Hispa
+3 LeafBlast
